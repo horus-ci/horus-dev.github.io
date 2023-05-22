@@ -1,0 +1,19 @@
+---
+layout: post
+category : article 
+title: BOILERPLATE
+tags : [ ]
+---
+{% include JB/setup %}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum viverra sapien ut urna gravida, et tristique nunc ultrices. Proin tincidunt at nisl sed consequat. Curabitur eu ornare dui, et vestibulum magna. In cursus elementum velit sed molestie. Donec ullamcorper mauris vel orci egestas convallis. Nulla hendrerit leo vel lacus dictum, et tincidunt felis interdum. Nullam neque elit, hendrerit sed laoreet sed, molestie eget ante. Donec condimentum bibendum facilisis. Nam vestibulum consequat turpis quis convallis. Nam aliquet quis orci tristique vestibulum. Phasellus at convallis dui. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi faucibus arcu vel rhoncus faucibus. Etiam lectus magna, consequat sed interdum quis, cursus at nunc.
+
+<!--excerpt-->
+
+Nunc ligula sem, consectetur sed tempor at, ornare in massa. Sed scelerisque mauris nisl, tincidunt malesuada eros laoreet at. Praesent in semper lectus. Nam at nulla rhoncus eros elementum hendrerit. Quisque auctor lorem mi, ut tincidunt massa bibendum ut. Mauris a fringilla nulla, bibendum mattis diam. Duis id neque quis elit aliquam mollis. Ut porttitor arcu risus, id porta mi suscipit vel. Donec nec viverra est, in imperdiet purus. Vivamus tortor enim, finibus at luctus in, ornare a lacus. Quisque tincidunt laoreet egestas. Fusce id nulla sem. Maecenas accumsan ligula nec magna pulvinar, et accumsan tellus blandit.
+
+Phasellus ut sodales ligula. Suspendisse libero lectus, tincidunt sed dui a, interdum pulvinar eros. Curabitur ut ligula eget eros finibus malesuada. Praesent laoreet maximus tellus nec dictum. Nunc feugiat sollicitudin justo, non interdum tellus volutpat auctor. Cras eleifend dapibus ipsum, non lacinia est mollis at. In suscipit sed ante sit amet vestibulum.
+
+Pellentesque pellentesque purus a sapien tincidunt dapibus. Praesent nec dictum ante. Nullam scelerisque rhoncus faucibus. Donec id aliquam nulla. Morbi bibendum imperdiet nisl non gravida. Vivamus id eros eu massa accumsan pharetra. Vestibulum ornare ipsum placerat ex hendrerit, vel elementum turpis convallis. Phasellus ac arcu non enim posuere ornare sit amet sed lacus. Pellentesque semper dolor eu eros pretium feugiat. Morbi rutrum odio ut scelerisque porta. Donec orci orci, sodales a ante sed, molestie fermentum ante.
+
+Etiam maximus accumsan sagittis. Maecenas non libero leo. Sed aliquet viverra mi vitae tempor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce quam quam, venenatis quis finibus sed, rutrum volutpat lorem. Etiam malesuada enim vel ipsum blandit hendrerit. Integer pretium erat quis vehicula maximus. Vivamus egestas posuere justo sagittis tincidunt. Nulla tempus neque eu eleifend ornare. Duis vulputate nibh at turpis bibendum molestie. Morbi quis aliquam quam. Integer lobortis magna sed sodales convallis. Nam tristique, dolor at iaculis semper, risus nisi gravida nulla, eu blandit orci lectus nec urna. Quisque quis pharetra odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce consequat tortor ac nibh efficitur iaculis.
