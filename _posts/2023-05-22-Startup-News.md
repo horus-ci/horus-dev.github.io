@@ -10,4 +10,4 @@ The Team has prototypes of Open OnDemand, HTCondor and initial OSiRIS storage in
 
 
 <!--excerpt-->
-
+This is the excerpt.
