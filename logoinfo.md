@@ -7,6 +7,7 @@ order: 1
 ---
 {% include JB/setup %}
 
+![HORUS-Logo](assets/images/logos/horus_logo_tag.png)
 
 The HORUS Logo was designed and created by <bf>Michelle David</bf>,  Communications Manager for the Institute for Cyber-Enabled Research (ICER) at Michigan State University.
 
